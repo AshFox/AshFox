@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AshFox
+- 👀 I’m interested in videogames and 3D rendering (minecraft specifically)
+- 🌱 I’m currently learning Java and C#
+- 📫 How to reach me @AshFox#9110 (discord) @AshFoxMI (twitter)
